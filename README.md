@@ -5,8 +5,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FelipeHenrique17/FelipeHenrique17/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/FelipeHenrique17/FelipeHenrique17/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=FelipeHenrique17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeHenrique17&layout=compact&theme=tokyonight"/>
 </div>
 
 ###
