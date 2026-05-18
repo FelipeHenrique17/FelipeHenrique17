@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FelipeHenrique17/FelipeHenrique17/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/FelipeHenrique17/FelipeHenrique17/output/snake.svg" alt="Snake animation" />
 
 ###
