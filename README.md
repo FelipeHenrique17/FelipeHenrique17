@@ -171,7 +171,7 @@ Olá! Meu nome é Felipe Henrique de Oliveira, estou cursando Análise e Desenvo
   align="left"
   alt="GitHub Stats"
   height="200"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=FelipeHenrique17&theme=tokyonight&layout=compact&langs_count=9"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=FelipeHenrique17&theme=tokyonight&layout=compact&langs_count=4"
 />
 
 </p>
