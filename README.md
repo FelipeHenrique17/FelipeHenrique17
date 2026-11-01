@@ -5,7 +5,7 @@
 Olá! Meu nome é Felipe Henrique de Oliveira, estou cursando Análise e Desenvolvimento de Sistemas na FATEC. Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou construindo minha experiência através de projetos acadêmicos e pessoais, buscando sempre aprender novas tecnologias e aprimorar minhas habilidades. 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/felipeoliveira17/">
+    <a href="https://www.linkedin.com/in/felipehenrique17/">
         <img 
             alt="linkedin" 
             title="Visite meu perfil no Linkedin" 
